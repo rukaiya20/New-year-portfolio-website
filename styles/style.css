@@ -1,0 +1,58 @@
+/* google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Open+Sans&family=Poppins&family=Work+Sans:wght@400;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header part style start */
+.header{
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%x;
+    height: 810px;
+    text-align: right;
+    
+    
+}
+.header-titel{
+    color: #fff;
+    font-size: 65px;
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 216px;
+    padding-left: 650px;
+    padding-right: 130px;
+}
+.header-description{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+    padding-top: 24px;
+    padding-left: 720px;
+    padding-right: 130px;
+    line-height: 25px;
+
+    
+}
+.btn-primary{
+    background: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Work Sans', sans-serif;
+    border: 0;
+    margin-top: 32px;
+    margin-left: 845px;
+    margin-right: 130px;
+    margin-bottom: 165px;
+    color: #005FAC;
+    padding: 21px 25px;
+    border-radius: 5px;
+    
+    
+    
+}
+/* header part style end */
