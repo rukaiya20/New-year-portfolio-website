@@ -265,5 +265,6 @@ footer{
     font-family: 'Work Sans', sans-serif;
     padding: 20px 37px;
     border-radius: 5px;
+    border: 0;
 }
 /* footer section styles end  */
