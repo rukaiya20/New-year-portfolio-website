@@ -257,6 +257,9 @@ footer{
     margin-bottom: 16px;
     
 }
+button{
+    border: 0;
+}
 .footer-btn{
     background: #005FAC;
     color: #f8f8f8;
