@@ -103,3 +103,46 @@
 }
 
 /* failures describing styles end */
+
+/* plans part start */
+
+.plans-container{
+    display: flex;
+    gap:50px
+}
+.plans{
+    margin-left: 110px;
+}
+.sub-titel{
+    text-align: center;
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+    
+}
+.plans-wish{
+    text-align: center;
+    color: #737272;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    
+}
+.plans{
+    margin-left: 50px;
+}
+.plans img{
+    padding-left: 40px;
+}
+.plans-titel{
+    text-align: center;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+    line-height: 47px;
+    padding-bottom: 50px;
+}
+/* plans part end */
